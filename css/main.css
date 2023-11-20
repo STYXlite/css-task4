@@ -109,10 +109,9 @@ body {
     font-size: 1.5rem;
     display: flex;
     width: fit-content;
-    padding: 0.5rem;
+    padding: 1.25rem 2.5rem;
     border-radius: 6px;
     background-color: #ffc800;
-    padding: 1.25rem 2.5rem;
     font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
     font-size: 1.125rem;
     font-weight: 700;
